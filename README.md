@@ -21,14 +21,14 @@ Tech Stack: HTML, CSS, JavaScript.
 
 🔒 Password-Manager: Your Fort Knox for Passwords!
 Encrypt and manage all your passwords securely. Keep your online accounts safe and accessible only to you!
-Tech Stack: HTML, CSS, JavaScript, localStorage.
+Tech Stack: HTML, CSS, JavaScript.
 
 
 🛒 Myntra-Clone: Fashion at Your Fingertips!
 Dive into the latest trends with a user-friendly interface. Shop your favorite styles and stay fashionable with ease!
-Tech Stack: HTML, CSS, JavaScript, API integration.
+Tech Stack: HTML, CSS, JavaScript.
 
 
 🎵 Spotify-Clone: Music for Every Mood!
 Stream your favorite tunes, create playlists, and discover new music. Enjoy a seamless, personalized music experience!
-Tech Stack: HTML, CSS, JavaScript, API integration.
+Tech Stack: HTML, CSS, JavaScript.
